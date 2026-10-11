@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Property Rental Management Platform (MySQL)
 
 A full-stack starter project based on your architecture diagram. It uses **React + Vite**, **Spring Boot**, and **MySQL** (not PostgreSQL).
@@ -71,3 +72,6 @@ Open the Vite URL shown in the terminal (usually `http://localhost:5173`).
 
 ## Notes
 This is a student-project starter, not a production payment/authentication system. The payment endpoint is a demo only. Before public deployment, add proper authentication/authorization, validation, secure image upload storage, migrations, and a real payment provider integration.
+=======
+# propertyRentalManagement
+>>>>>>> 572e80339d77a750a839d70047fe2c5b47e18388
